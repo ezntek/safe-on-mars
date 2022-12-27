@@ -1,6 +1,6 @@
 # Safe on Mars
 
-Real time strategy game written in !(`pyray`)[https://pypi.org/project/raylib] !(`raylib`)[https://raylib.com/] for Python, but in !(Hy Lisp.)[https://hylang.org/]
+Real time strategy game written in ![`pyray`](https://pypi.org/project/raylib) ![`raylib`](https://raylib.com/) for Python, but in ![Hy Lisp.](https://hylang.org/)
 
 This Game is also 100% Free software, Licensed under the !(GNU GPL v3.)[https://gnu.org/licenses/gpl.html]. Other Licenses Used as Libraries/Embedded into an executable may include:
 
